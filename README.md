@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi there, I'm Nischal
 
-<!--
-**Nischal-012/Nischal-012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- I'm student of Computer Engineering at IOE, Purwanchal Campus(ERC), Dharan, Nepal :flag_np:
+- I'm currently learning Game Development with Unity GameEngine
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br />
+
+
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nischal-012&layout=compact&theme=dark" />
+
+<br/><br/>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Nischal-012&theme=dark" alt="Nischal" /></p>
+<br/><br/>
+
+<p><img align="center" src="https://activity-graph.herokuapp.com/graph?username=Nischal-012&theme=dracula" alt="Nischal's activity graph" /></p>
+<br>
