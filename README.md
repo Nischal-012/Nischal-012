@@ -1,8 +1,7 @@
 ### Hi there, I'm Nischal
 
 
-- I'm student of Computer Engineering at IOE, Purwanchal Campus(ERC), Dharan, Nepal :flag_np:
-- I'm currently learning Game Development with Unity GameEngine
+-I have around 3 years of experience with Unity.
 
 <br />
 
